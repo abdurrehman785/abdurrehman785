@@ -11,10 +11,9 @@
 ---
 
 ### 🧠 About Me
-- 🎯 Focused on **Artificial Intelligence & Machine Learning**
-- 💻 Building skills in **Cloud & DevOps**
-- 🌱 Currently learning **ML, Data Analysis & Automation**
-- 🤝 Open to collaborating on **impactful projects**
+- 🎯 Focused on **AI & Machine Learning**
+- 💻 Exploring **Web Dev & DevOps**
+- 🤝 Open to **collaborations**
 
 ---
 
@@ -25,10 +24,16 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=abdurrehman785&show_icons=true&theme=tokyonight" />
-</p>
+### 🚀 Projects
+
+- **AI-Augmented RPA Job Automation**  
+  → Built a UiPath pipeline + LLM to automate job search, summaries, and outreach  
+
+- **Modular AI Image Pipeline**  
+  → Designed ComfyUI workflows for generation, inpainting & upscaling (Stable Diffusion)  
+
+- **EcoSense (Disaster AI Platform)**  
+  → Developed real-time alert system + AI chatbot for disaster response  
 
 ---
 
@@ -39,7 +44,7 @@
 ---
 
 <p align="center">
-  ⚡ Always learning. Always building.
+  ⚡ Always building real-world AI systems
 </p>
 <!---
 abdurrehman785/abdurrehman785 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
